@@ -1,6 +1,7 @@
 #  Dynamic Machine Learning Explorer (HW2)
 
 An interactive Machine Learning exploration web application built with **Streamlit**, **Scikit-Learn**, and **Statsmodels**.
+
 https://7115064140-hw2-quw7fwtc5ipm5saam8mlrd.streamlit.app/
 <img width="1920" height="998" alt="image" src="https://github.com/user-attachments/assets/8000b500-cb57-4f33-ad2f-acaebee44702" />
 
